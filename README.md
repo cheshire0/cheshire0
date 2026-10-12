@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @cheshire0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer engineering at uni
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+# Hi, I'm Lili
 
-<!---
-cheshire0/cheshire0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering MSc student focused on **Machine Learning, AI, and data-driven research**.
+
+Currently working on **interpretable tabular foundation models** and **ML for early endometriosis risk assessment**. Previously worked on **RAG and document retrieval at CERN** and quantitative engineering at **BlackRock**. 
+
+**Main stack:** Python, PyTorch, scikit-learn, Java, SQL, PostgreSQL.
+
+Interested in **interpretable ML, RAG, tabular learning, and healthcare AI**.
